@@ -15,9 +15,8 @@ The **Spotify Sleep Timer** is a simple macOS menu bar application designed to h
 1. Download the latest release of the Spotify Sleep Timer app.
 2. Double-click the downloaded `.dmg` file to mount it.
 3. Drag the app icon to your Applications folder.
-5. Control-click the app from your Applications folder.
+4. Control-click the app from your Applications folder and open it.
 <img width="321" alt="Screenshot 2024-03-25 at 00 01 48" src="https://github.com/gheara43/Spotify-Sleep-Timer/assets/122623394/0e0faffb-a93c-49d7-98f2-470f1d3ee91b">
-6. Open it.
 <img width="269" alt="Screenshot 2024-03-25 at 00 02 03" src="https://github.com/gheara43/Spotify-Sleep-Timer/assets/122623394/61a35deb-f345-454b-a3ef-7d06a3234c85">
 
 ## Usage
